@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "NixalBot404",
-    "password": "MY.h3079",
+    "password": "",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "MY.h3079"
     },
     "anti-afk": {
       "enabled": true,
